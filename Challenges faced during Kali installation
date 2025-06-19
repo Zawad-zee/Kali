@@ -1,0 +1,20 @@
+
+```
+This repository serves as a personal diary documenting my journey toward becoming a cybersecurity professional. My background includes a Service Desk Specialist role, where I developed crucial troubleshooting and IT support skills. 
+While initially hesitant about IT-related challenges, this experience fostered my confidence and problem-solving abilities.
+
+Driven by the increasing demand for cybersecurity expertise, particularly with the rise of AI, I'm transitioning my career to this field. 
+This repository will track my progress, goals, and achievements as I acquire new skills and contribute to organizational security.
+
+My initial steps involved guidance from mentors Mohammad Irshad (Canada) and Mashihoor Rahman (Australia). Mashihoor introduced me to Linux distributions, while Irshad's course led me to install Kali Linux as a base OS on a dedicated HP Elitebook. 
+This involved overcoming challenges like a faulty USB drive firmware, and successfully installing Kali after adapting instructions originally from Mehdi Shakeel Youtube channel https://www.youtube.com/watch?v=3GbmTkzoKlE .
+
+**Challenges Faced:**
+
+* **USB Drive Detection Issue:** My HP Elitebook initially failed to detect the bootable USB drive. Investigation revealed a faulty firmware issue on the non-branded 16GB USB drive, causing it to display an incorrect 32GB memory space. 
+                                 This was resolved by acquiring and using a new USB 2.0 drive (as my laptop had USB 2.0 ports).
+* **Installation Configuration:** While attempting to install Kali Linux, the initial instructions from Mehdi Shakeel did not work directly with my Elitebook's setup. 
+                                  Through further internet research and assistance from GPT, I was able to identify and modify the necessary configuration settings (including partitions, BIOS settings, and ISO image mode) 
+                                  during the bootable drive creation process to successfully complete the installation.
+
+```
