@@ -1,2 +1,2 @@
 # Kali
-Learning pentesting
+Working as a Service Desk Specialist for 3 years, decided to take a leap into cyber security world before AI completely takes over the entry level tasks. Started off with few online resources and also took a course with my mentor Mashihoor Rahman from Australia ( https://www.linkedin.com/in/mashihoor/) , who not only provided the knowledge, but motivation and advices. Currently now signed up with a mentor, Mohammad Irshad from Canada, (https://www.linkedin.com/in/mohammedirshad/) to learn Pentesting. With the hopes to land a job soon in the cyber security world!
